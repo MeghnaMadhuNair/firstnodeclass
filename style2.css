@@ -1,0 +1,37 @@
+.heading{
+    text-align:center;
+    text-decoration:underline;
+    text-transform: uppercase;
+    text-shadow: 1px 1px blue
+}
+.h1:hover{background-color: purple;
+          font-style:oblique;}
+.h{text-align: justify;
+   text-indent:100px;
+    font-family: Arial;
+    font-style: italic;}
+a{text-decoration: none;}
+a:link{
+    color:red;}
+a:active{
+    color: #0a0fff;}
+a:visited{
+    color:green;}
+a:hover{
+    color: black;}
+.list{
+     list-style-type:upper-roman;
+    list-style-image: url("IM_20170906_125515_930.jpg");
+}
+.ping{font-size:75px;
+      background-color: chartreuse;
+      color: red;
+      margin-left:0px;
+      padding-right:0px;
+      text-align: center;
+      border:5px dotted red;
+      text-shadow:5px 5px blue;
+      outline:5px double red;
+       visibility: visible;
+}
+
